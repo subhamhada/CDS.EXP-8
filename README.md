@@ -383,9 +383,28 @@ return 0;
 
 ## Output -
 ### 1.*Entering elements of matrix -*
-### 2.*Addition of two matrices -*
-### 3.*Subtraction of two matrices -*
-### 4.*Multiplication of two matrices -*
-### 5.*Transpose of a matrix -*
-### 6. *Diagnol addition of a matrix -*
+![Screenshot 2024-08-21 011748](https://github.com/user-attachments/assets/9f4a6edc-39e5-4c7e-b6a3-22779db2d19b)
 
+### 2.*Addition of two matrices -*
+![Screenshot 2024-08-21 011910](https://github.com/user-attachments/assets/bf7c36d7-f6d8-4d2f-b8c0-83ffaea3a160)
+
+### 3.*Subtraction of two matrices -*
+![Screenshot 2024-08-21 012036](https://github.com/user-attachments/assets/3cc80b95-9060-43db-8463-5bd7dd6603f8)
+
+### 4.*Multiplication of two matrices -*
+![Screenshot 2024-08-21 012201](https://github.com/user-attachments/assets/a1f5e716-f137-4a54-ba1e-43f480442fc8)
+
+### 5.*Transpose of a matrix -*
+![Screenshot 2024-08-21 012244](https://github.com/user-attachments/assets/3926da44-3a25-44b9-9e18-3ee3feeffe28)
+
+### 6. *Diagnol addition of a matrix -*
+![Screenshot 2024-08-21 012317](https://github.com/user-attachments/assets/b1f51561-c508-4186-910f-290b32492355)
+
+## Conclusion -
+This experiment provides valuable insight into fundamental concepts in programming, particularly in handling data structures that require multi-dimensional organization. Through this process, we gain a deeper understanding of how to: <br>
+
+* Efficiently Store and Manipulate Data: Using 2D arrays, we can efficiently store data in a tabular format, making it easier to perform operations like addition, subtraction, and multiplication of matrices.
+
+* Develop Problem-Solving Skills: Implementing matrix operations enhances logical thinking and problem-solving skills, as it requires careful consideration of indices, loops, and data handling.
+
+* Understand Memory Management: Working with 2D arrays in C++ also provides an understanding of how memory is allocated and accessed in programming, especially in managing rows and columns of data.
